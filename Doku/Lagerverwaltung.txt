@@ -1,11 +1,13 @@
 Lerchner
-Weißböck
+WeiÃŸbÃ¶ck
 Hattinger
 
 Lagerverwaltung
 
 Mehrdimensionale Lagererstellung (Schrank -> Regal -> Schachtel -> ...)
-Barcode-Scanner unterstützung (1D + 2D)
+Barcode-Scanner unterstÃ¼tzung (1D + 2D)
 Grafische Lageransicht (zweitrangig)
 Webanwendung, Formsanwendung
 Formsanwendung online & offline nutzbar (Sync)(zweitrangig)
+
+I just wanted to say das a Gruber des fian Hugo gmocht hot
